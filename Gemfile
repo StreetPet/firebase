@@ -20,7 +20,7 @@ end
 gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 
 gem "liquid", "~> 4.0"
-gem "kramdown", "~> 2.1"
+gem "kramdown", "~> 2.3"
 gem "rouge", "~> 3.15"
 gem "sass", "~> 3.7"
 gem "safe_yaml", "~> 1.0"
